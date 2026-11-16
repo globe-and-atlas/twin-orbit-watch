@@ -1,0 +1,42 @@
+{
+  "name": "twin-orbit-watch",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Twin Orbit",
+    "uuid": "1dcb22ab-e678-4856-8374-0de9f6cae663",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "TextColor",
+      "HourColor",
+      "MinuteColor",
+      "TimeFormat",
+      "DateFormat",
+      "Labels",
+      "DigitalTime"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

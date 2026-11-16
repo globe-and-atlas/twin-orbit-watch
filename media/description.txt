@@ -1,0 +1,17 @@
+Two orbits. One moment.
+
+Twin Orbit puts hours and minutes on two overlapping tracks. The larger hollow marker follows the upper-left hour ring; the smaller solid dot follows the lower-right minute ring. Their distinct shapes remain readable in monochrome.
+
+Make it yours:
+• Six palettes: Night, Paper, Mint, Ice, Rose, and Monochrome.
+• Custom background, text, hour-orbit, and minute-orbit colors.
+• Watch default, 12-hour, or 24-hour numeric time.
+• Optional upright hour and minute values in the orbit centers.
+• Optional digital time below the dial.
+• Optional date: YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+
+The hour orbit keeps a conventional 12-hour cycle in every mode; the numeric hour follows your chosen 12/24-hour setting.
+
+Designed for Pebble Time 2 and Pebble Round 2. Settings are available through the Pebble app. Updates once per minute, with no phone service needed for timekeeping.
+
+The animated preview is an accelerated time-lapse showing both markers moving and the six palette options. The installed watchface keeps the palette you choose.

@@ -1,0 +1,1 @@
+{"date": "2026-11-08", "project": "twin-orbit-watch", "effort": "extended", "what_constrained": "Offset circular geometry and moving-marker clearance near the other orbit center", "what_worked": "Full-day independent label-rectangle checks plus real native crossing captures", "what_differently": "Rename explicit symbols when reusing native SDK code, then compile early"}
